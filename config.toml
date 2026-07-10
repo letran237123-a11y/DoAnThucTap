@@ -1,7 +1,8 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
+baseURL = "https://letran237123-a11y.github.io/DoAnThucTap/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
