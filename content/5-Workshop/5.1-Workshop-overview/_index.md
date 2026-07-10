@@ -33,8 +33,8 @@ The menu includes basic function buttons such as Online, Offline, Setting, and E
 
 - The Minotaur Boss Map is designed as a battle stage against a bull-like creature holding an axe, with moderate attack damage.
 - When entering the boss room, the player will fight directly against the Minotaur. The boss has a large size, creating pressure for the player during combat. In this stage, the player uses the weapon selected from the Lobby to attack the boss, dodge attacks, and try to reduce the boss’s health to 0. If the player is defeated by the boss, the system will return the player to the Map Lobby. After defeating the boss, upgraded weapons will appear as rewards.
-  ![overview](/images/5-Workshop/5.1-Workshop-overview/Mapboss.png)
-  ![overview](/images/5-Workshop/5.1-Workshop-overview/Mapboss1.png)
+  ![overview](/images/5-Workshop/5.1-Workshop-overview/MapBoss1.png)
+  ![overview](/images/5-Workshop/5.1-Workshop-overview/MapBoss1.png)
 
 **2.3. Phoenix Boss Map**
 

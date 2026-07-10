@@ -24,11 +24,11 @@ Budget được cấu hình với ngưỡng chi phí hàng tháng và email cả
 
 #### Minh chứng cấu hình Budget
 
-![Budget setting](/images/5-Workshop/5.2-Budget/01_BudgetSetting.png)
+![Budget setting](/DoAnThucTap/images/5-Workshop/5.2-Budget/01_BudgetSetting.png)
 
 Hình trên thể hiện phần cấu hình ngân sách hàng tháng cho dự án RoughLife. Budget được đặt ở mức 10 USD nhằm kiểm soát chi phí trong quá trình triển khai thử nghiệm.
 
-![Budget alert setup](/images/5-Workshop/5.2-Budget/01_AlertSetup.png)
+![Budget alert setup](/DoAnThucTap/images/5-Workshop/5.2-Budget/01_AlertSetup.png)
 
 Hình trên thể hiện cấu hình cảnh báo chi phí. AWS sẽ gửi email khi chi phí thực tế vượt ngưỡng đã cấu hình.
 

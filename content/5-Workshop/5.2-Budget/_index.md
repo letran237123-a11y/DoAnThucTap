@@ -24,11 +24,11 @@ The budget is configured with a monthly cost limit and email alerts. When the ac
 
 #### Budget Configuration Evidence
 
-![Budget setting](/images/5-Workshop/5.2-Budget/01_BudgetSetting.png)
+![Budget setting](/DoAnThucTap/images/5-Workshop/5.2-Budget/01_BudgetSetting.png)
 
 The image above shows the monthly budget configuration for the RoughLife project. The budget amount is set to 10 USD to help control AWS costs during testing.
 
-![Budget alert setup](/images/5-Workshop/5.2-Budget/01_AlertSetup.png)
+![Budget alert setup](/DoAnThucTap/images/5-Workshop/5.2-Budget/01_AlertSetup.png)
 
 The image above shows the alert configuration. AWS will send an email notification when the actual cost exceeds the configured threshold.
 

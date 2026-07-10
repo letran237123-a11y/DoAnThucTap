@@ -16,13 +16,13 @@ Link Facebook: [AWS Study Group Facebook permalink 2198027240962236](https://www
 
 Link blog gốc AWS: [Host persistent world games on Amazon GameLift Servers](https://aws.amazon.com/blogs/gametech/host-persistent-world-games-on-amazon-gamelift-servers/)
 
-![Active GameLift game session](/images/3-blogstranslated/blog2 (1).jpg)
+![Active GameLift game session](</images/3-blogstranslated/blog2 (1).jpg>)
 
-![Hộp thoại terminate game session](/images/3-blogstranslated/blog2 (2).jpg)
+![Hộp thoại terminate game session](</images/3-blogstranslated/blog2 (2).jpg>)
 
-![CloudWatch GameLift log group](/images/3-blogstranslated/blog2 (3).jpg)
+![CloudWatch GameLift log group](</images/3-blogstranslated/blog2 (3).jpg>)
 
-![CloudWatch log streams](/images/3-blogstranslated/blog2 (4).jpg)
+![CloudWatch log streams](</images/3-blogstranslated/blog2 (4).jpg>)
 
 ## Tổng quan
 

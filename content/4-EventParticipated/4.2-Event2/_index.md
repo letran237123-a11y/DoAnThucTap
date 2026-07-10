@@ -130,7 +130,7 @@ The workshop featured several experienced speakers from the AWS and software dev
 - Explore Amazon Q and CloudFront through hands-on practice.
 - Participate in hackathons and technical communities to gain more practical experience.
 - Learn more about enterprise AI and multi-agent system architectures.
-  ![overview](/images/4-Event/Event2.jpg)
-  ![overview](/images/4-Event/Event2.1.jpg)
-  ![overview](/images/4-Event/Event2.2.jpg)
-  ![overview](/images/4-Event/Event2.3.jpg)
+  ![overview](/images/4-Event/event2.jpg)
+  ![overview](/images/4-Event/event2.1.jpg)
+  ![overview](/images/4-Event/event2.2.jpg)
+  ![overview](/images/4-Event/event2.3.jpg)

@@ -36,8 +36,8 @@ Menu có các nút chức năng cơ bản gồm: Online, Offline, Setting và Ex
 - Map Boss Minotaur là màn boss được thiết kế theo hướng chiến đấu với một sinh vật giống con trâu cầm cây rìu và khả năng tấn công với lượng dame vừa.
 
 - Khi vào phòng boss, người chơi sẽ chiến đấu trực tiếp với Minotaur. Boss có kích thước lớn, tạo cảm giác áp lực cho người chơi trong quá trình chiến đấu. Trong màn này, người chơi sử dụng vũ khí đã chọn từ Lobby để tấn công boss, né tránh đòn đánh và cố gắng hạ máu boss về 0. Nếu người chơi bị boss đánh bại, hệ thống sẽ đưa người chơi quay trở lại Map Lobby. Khi tiêu diệt xong boss thì sẽ xuất hiện các vũ khí nâng cấp.
-  ![overview](/images/5-Workshop/5.1-Workshop-overview/Mapboss.png)
-  ![overview](/images/5-Workshop/5.1-Workshop-overview/Mapboss1.png)
+  ![overview](/images/5-Workshop/5.1-Workshop-overview/MapBoss1.png)
+  ![overview](/images/5-Workshop/5.1-Workshop-overview/MapBoss1.png)
   **2.3. Map Boss Phoenix**
 
 - Map Boss Phoenix là màn boss được thiết kế theo hướng chiến đấu với một sinh vật có phong cách lửa và khả năng tấn công linh hoạt với lượng sát thương cao.

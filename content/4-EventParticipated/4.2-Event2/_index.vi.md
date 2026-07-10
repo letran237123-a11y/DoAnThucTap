@@ -131,7 +131,7 @@ Workshop có sự tham gia của nhiều diễn giả giàu kinh nghiệm đến
 - Tham gia các cuộc thi Hackathon và cộng đồng công nghệ để tích lũy thêm kinh nghiệm thực tế.
 - Nghiên cứu sâu hơn về AI doanh nghiệp và kiến trúc hệ thống Multi-Agent.
 
-![overview](/images/4-Event/Event2.jpg)
-![overview](/images/4-Event/Event2.1.jpg)
-![overview](/images/4-Event/Event2.2.jpg)
-![overview](/images/4-Event/Event2.3.jpg)
+![overview](/images/4-Event/event2.jpg)
+![overview](/images/4-Event/event2.1.jpg)
+![overview](/images/4-Event/event2.2.jpg)
+![overview](/images/4-Event/event2.3.jpg)

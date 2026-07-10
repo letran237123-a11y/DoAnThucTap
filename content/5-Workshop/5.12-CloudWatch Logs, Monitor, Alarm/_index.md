@@ -52,7 +52,7 @@ The monitoring flow is:
 
 #### CloudWatch Log Group Evidence
 
-![CloudWatch Log Group](/images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_01_CloudWatch_LogGroup.png)
+![CloudWatch Log Group](</images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_01_CloudWatch_LogGroup.jpg>)
 
 The image above shows the CloudWatch log group for the `RoughLifeRoomApi` Lambda function. The log group name is:
 
@@ -74,7 +74,7 @@ This confirms that the Lambda function is successfully connected to CloudWatch L
 
 #### Lambda Recent Invocations Evidence
 
-![CloudWatch Lambda Recent Invocations](/images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_02_CloudWatch_Lambda_Recent_Invocations.png)
+![CloudWatch Lambda Recent Invocations](</images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_02_CloudWatch_Lambda_Recent_Invocations.jpg>)
 
 The image above shows the **CloudWatch Logs** section in the Monitor tab of the `RoughLifeRoomApi` Lambda function. The **Recent invocations** table displays the latest Lambda executions.
 
@@ -94,7 +94,7 @@ CloudWatch also displays the **Most expensive invocations in GB-seconds** table.
 
 #### Detailed Log Events Evidence
 
-![CloudWatch Log Events](/images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_03_CloudWatch_LogEvents.png)
+![CloudWatch Log Events](</images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_03_CloudWatch_LogEvents.jpg>)
 
 The image above shows detailed log events inside a Lambda log stream. The log events include:
 
@@ -108,7 +108,7 @@ In the evidence, the Lambda function executes within a few hundred milliseconds 
 
 #### Creating a CloudWatch Alarm for Lambda Errors
 
-![Create Lambda Error Alarm](/images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_04_CloudWatch_Create_Lambda_Error_Alarm.png)
+![Create Lambda Error Alarm](</images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_04_CloudWatch_Create_Lambda_Error_Alarm.jpg>)
 
 The image above shows the alarm configuration for the `Errors` metric of the `RoughLifeRoomApi` Lambda function.
 
@@ -130,7 +130,7 @@ With this configuration, if the Lambda function produces one or more errors with
 
 #### CloudWatch Alarm Created Evidence
 
-![CloudWatch Alarm Created](/images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_05_CloudWatch_Alarm_Created.png)
+![CloudWatch Alarm Created](</images/5-Workshop/5.12-CloudWatch Logs, Monitor, Alarm/11_05_CloudWatch_Alarm_Created.jpg>)
 
 The image above shows that the `RoughLifeRoomApi-Lambda-Error-Alarm` alarm has been created successfully in CloudWatch Alarms.
 
